@@ -30,12 +30,12 @@ app.get('/course', (req,res) =>{
     res.send(course)
 })
 
-// app.get('/course/:id', (req, res) => {
-//     const id = req.params.id;
-//     const selectedcourse = course.find(n => n._id === id);
-//     res.send(selectedcourse)
-// });
+app.get('/course/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedcourse = course.find(n => n._id === id);
+    res.send(selectedcourse)
+});
 
-// app.listen(port, () => {
-//     console.log(`Learning server running on port ${port}`)
-// })
+app.listen(port, () => {
+    console.log(`Learning server running on port ${port}`)
+})
