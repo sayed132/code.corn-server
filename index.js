@@ -3,13 +3,13 @@ const app = express();
 const cors = require('cors');
 const port = process.env.PORT || 5000;
 
-// app.use(cors());
-// const categories = require('./Data/Categories.json');
-// const course = require('./Data/Course.json');
+app.use(cors());
+const categories = require('./Data/Categories.json');
+const course = require('./Data/Course.json');
 
-// app.get('/', (req, res) => {
-//     res.send('api running in port 5000')
-// })
+app.get('/', (req, res) => {
+    res.send('api running in port 5000')
+})
 
 // app.get('/course', (req, res) => {
 //     res.send(categories)
