@@ -11,24 +11,24 @@ app.get('/', (req, res) => {
     res.send('api running in port 5000')
 })
 
-// app.get('/course', (req, res) => {
-//     res.send(categories)
-// });
+app.get('/course', (req, res) => {
+    res.send(categories)
+});
 
-// app.get('/category/:id', (req, res) => {
-//     const id = req.params.id;
-//     if (id === '07') {
-//         res.send(course)
-//     }
-//     else {
-//         const categoryCourse = course.filter(n => n.category_id === id);
-//         res.send(categoryCourse);
-//     }
-// });
+app.get('/category/:id', (req, res) => {
+    const id = req.params.id;
+    if (id === '07') {
+        res.send(course)
+    }
+    else {
+        const categoryCourse = course.filter(n => n.category_id === id);
+        res.send(categoryCourse);
+    }
+});
 
-// app.get('/course', (req,res) =>{
-//     res.send(course)
-// })
+app.get('/course', (req,res) =>{
+    res.send(course)
+})
 
 // app.get('/course/:id', (req, res) => {
 //     const id = req.params.id;
