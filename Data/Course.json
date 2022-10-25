@@ -19,7 +19,8 @@
         },
         "thumbnail_url": "https://hackr.io/blog/best-html-courses/thumbnail/large",
         "image_url": "https://hackr.io/blog/best-html-courses/thumbnail/large",
-        "details": "HTML is the standard markup language for Web pages With HTML you can create your own Website  HTML is easy to learn  You will enjoy it"
+        "details": "HTML is the standard markup language for Web pages With HTML you can create your own Website  HTML is easy to learn  You will enjoy it",
+        "tutorials": "https://www.youtube.com/watch?v=8N-yQv8vWvQ&list=PLhPBqF--77IkXtAflmBIBE4ewHr-TbEb8"
     },
     {
         "_id": "7c4dfea0fafddc813673282a428429b7",
@@ -42,6 +43,8 @@
         "thumbnail_url": "https://hackr.io/blog/best-html-courses/thumbnail/large",
         "image_url": "https://hackr.io/blog/best-html-courses/thumbnail/large",
         "details": "HTML is the standard markup language for Web pages With HTML you can create your own Website  HTML is easy to learn  You will enjoy it"
+        ,
+        "tutorials": "https://www.youtube.com/watch?v=8N-yQv8vWvQ&list=PLhPBqF--77IkXtAflmBIBE4ewHr-TbEb8"
     },
     {
         "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
@@ -63,6 +66,8 @@
         "thumbnail_url": "https://hackr.io/blog/best-html-courses/thumbnail/large",
         "image_url": "https://hackr.io/blog/best-html-courses/thumbnail/large",
         "details": "HTML is the standard markup language for Web pages With HTML you can create your own Website  HTML is easy to learn  You will enjoy it"
+        ,
+        "tutorials": "https://www.youtube.com/watch?v=8N-yQv8vWvQ&list=PLhPBqF--77IkXtAflmBIBE4ewHr-TbEb8"
     },
     {
         "_id": "df11ff9feefc37613cc3a4486ce02151",
@@ -84,7 +89,8 @@
         },
         "thumbnail_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
         "image_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
-        "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
+        "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "tutorials": "https://www.youtube.com/watch?v=FwmuhNTrJO4&list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO"
     },
     {
         "_id": "919db97c34e0778b387dd40cdfa08130",
@@ -107,6 +113,8 @@
         "thumbnail_url": "https://hackr.io/blog/best-html-courses/thumbnail/large",
         "image_url": "https://hackr.io/blog/best-html-courses/thumbnail/large",
         "details": "HTML is the standard markup language for Web pages With HTML you can create your own Website  HTML is easy to learn  You will enjoy it"
+        ,
+        "tutorials": "https://www.youtube.com/watch?v=8N-yQv8vWvQ&list=PLhPBqF--77IkXtAflmBIBE4ewHr-TbEb8"
     },
     {
         "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
@@ -129,6 +137,8 @@
         "thumbnail_url": "https://hackr.io/blog/best-html-courses/thumbnail/large",
         "image_url": "https://hackr.io/blog/best-html-courses/thumbnail/large",
         "details": "HTML is the standard markup language for Web pages With HTML you can create your own Website  HTML is easy to learn  You will enjoy it"
+        ,
+        "tutorials": "https://www.youtube.com/watch?v=8N-yQv8vWvQ&list=PLhPBqF--77IkXtAflmBIBE4ewHr-TbEb8"
     },
     {
         "_id": "be44c843d61859cc0b87cae85c55f9db",
@@ -151,6 +161,8 @@
         "thumbnail_url": "https://hackr.io/blog/best-html-courses/thumbnail/large",
         "image_url": "https://hackr.io/blog/best-html-courses/thumbnail/large",
         "details": "HTML is the standard markup language for Web pages With HTML you can create your own Website  HTML is easy to learn  You will enjoy it"
+        ,
+        "tutorials": "https://www.youtube.com/watch?v=8N-yQv8vWvQ&list=PLhPBqF--77IkXtAflmBIBE4ewHr-TbEb8"
     },
     {
         "_id": "1b03149c50f1bec662062d930bf46489",
@@ -172,7 +184,8 @@
         },
         "thumbnail_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
         "image_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
-        "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
+        "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "tutorials": "https://www.youtube.com/watch?v=FwmuhNTrJO4&list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO"
     },
     {
         "_id": "f69a695f037cd9484cecaea37ca71012",
@@ -194,7 +207,8 @@
         },
         "thumbnail_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
         "image_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
-        "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
+        "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "tutorials": "https://www.youtube.com/watch?v=FwmuhNTrJO4&list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO"
     },
     {
         "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
@@ -216,7 +230,8 @@
         },
         "thumbnail_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
         "image_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
-        "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
+        "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "tutorials": "https://www.youtube.com/watch?v=FwmuhNTrJO4&list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO"
     },
     {
         "_id": "cd2b53655737cc4077542baea9f8f75d",
@@ -238,7 +253,8 @@
         },
         "thumbnail_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
         "image_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
-        "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
+        "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "tutorials": "https://www.youtube.com/watch?v=FwmuhNTrJO4&list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO"
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
@@ -260,7 +276,8 @@
         },
         "thumbnail_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--8CA40E5L--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/721lt9kj92i3ov2cthfc.png",
         "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--8CA40E5L--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/721lt9kj92i3ov2cthfc.png",
-        "details": "GitHub, Inc., is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. "
+        "details": "GitHub, Inc., is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. ",
+        "tutorials": "https://www.youtube.com/watch?v=oe21Nlq8GS4"
     },
     {
         "_id": "11468ed61aee84de492a8b04158a22f9",
@@ -282,7 +299,8 @@
         },
         "thumbnail_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--8CA40E5L--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/721lt9kj92i3ov2cthfc.png",
         "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--8CA40E5L--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/721lt9kj92i3ov2cthfc.png",
-        "details": "GitHub, Inc., is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. "
+        "details": "GitHub, Inc., is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. ",
+        "tutorials": "https://www.youtube.com/watch?v=oe21Nlq8GS4"
     },
     {
         "_id": "acb9b6785b62698fc6130db7615965e1",
@@ -304,7 +322,8 @@
         },
         "thumbnail_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--8CA40E5L--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/721lt9kj92i3ov2cthfc.png",
         "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--8CA40E5L--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/721lt9kj92i3ov2cthfc.png",
-        "details": "GitHub, Inc., is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. "
+        "details": "GitHub, Inc., is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. ",
+        "tutorials": "https://www.youtube.com/watch?v=oe21Nlq8GS4"
     },
     {
         "_id": "a713ee936ff5574273f0f769f5c5b20e",
@@ -326,7 +345,8 @@
         },
         "thumbnail_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--8CA40E5L--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/721lt9kj92i3ov2cthfc.png",
         "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--8CA40E5L--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/721lt9kj92i3ov2cthfc.png",
-        "details": "GitHub, Inc., is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. "
+        "details": "GitHub, Inc., is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. ",
+        "tutorials": "https://www.youtube.com/watch?v=oe21Nlq8GS4"
     },
     {
         "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
@@ -348,7 +368,8 @@
         },
         "thumbnail_url": "https://moralis.io/wp-content/uploads/2021/07/Moralis-Blogpost-JavaScript-Explained-07272021-V12.png",
         "image_url": "https://moralis.io/wp-content/uploads/2021/07/Moralis-Blogpost-JavaScript-Explained-07272021-V12.png",
-        "details": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries."
+        "details": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.",
+        "tutorials": "https://www.youtube.com/watch?v=rePN-VFo1Eo&list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy"
     },
     {
         "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
@@ -370,7 +391,8 @@
         },
         "thumbnail_url": "https://moralis.io/wp-content/uploads/2021/07/Moralis-Blogpost-JavaScript-Explained-07272021-V12.png",
         "image_url": "https://moralis.io/wp-content/uploads/2021/07/Moralis-Blogpost-JavaScript-Explained-07272021-V12.png",
-        "details": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries."
+        "details": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.",
+        "tutorials": "https://www.youtube.com/watch?v=rePN-VFo1Eo&list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy"
     },
     {
         "_id": "f06f8cc035b04bd1158e4198281915a3",

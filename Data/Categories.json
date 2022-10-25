@@ -1,27 +1,77 @@
 [
     {
         "id": "01",
-        "name": "Basic HTML5"
+        "name": "Basic HTML5",
+        "author": {
+            "name": "Rasel Ahmed",
+            "published_date": "2022-08-30 16:38:45",
+            "img": "https://scontent.fjsr16-1.fna.fbcdn.net/v/t39.30808-6/242949427_4729960873688754_6323819777839821657_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGpHzaxyKrDrekKezBP8Jk8PKWCqElbH3I8pYKoSVsfct-_90JTcUsBZ31abeBuJvAufQCYKf9wkt4Fgj8Xro6m&_nc_ohc=52iBZ0-dDcEAX8dc_22&_nc_zt=23&_nc_ht=scontent.fjsr16-1.fna&oh=00_AT8D4iHT1B2GzQHaa0u_RKCeJGVI3OPUh0qaUWkmJkQbGg&oe=635C7EEC"
+        },
+        "thumbnail_url": "https://hackr.io/blog/best-html-courses/thumbnail/large",
+        "image_url": "https://hackr.io/blog/best-html-courses/thumbnail/large",
+        "details": "HTML is the standard markup language for Web pages With HTML you can create your own Website  HTML is easy to learn  You will enjoy it"
     },
     {
         "id": "02",
-        "name": "Basic CSS3"
+        "name": "Basic CSS3",
+        "author": {
+            "name": "Anisul Islam",
+            "published_date": "2022-08-30 16:38:45",
+            "img": "https://yt3.ggpht.com/ytc/AMLnZu9qwWLjx8qLFObE0TDxQytCm3kAy02qy3cnv-tWew=s900-c-k-c0x00ffffff-no-rj"
+        },
+        "thumbnail_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
+        "image_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
+        "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
     },
     {
         "id": "03",
-        "name": "Git And Github"
+        "name": "Git And Github",
+        "author": {
+            "name": "sumit saha",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://scontent.fjsr16-1.fna.fbcdn.net/v/t31.18172-1/21949730_911629822332762_3957449119387566269_o.jpg?stp=c0.0.320.320a_dst-jpg_p320x320&_nc_cat=110&ccb=1-7&_nc_sid=f67be1&_nc_eui2=AeHkwtp0ZsJutiaq61Jtkn12ZwlRA9aR-Z9nCVED1pH5n1NIHMD6dQ7Nexh8auzaGmzsX9fljwsjmLpXpgfjSd_b&_nc_ohc=AIxxzeNVm2UAX9CMmDn&_nc_ht=scontent.fjsr16-1.fna&oh=00_AT9C85WJPIwo0rydsgF20riNinQg4IXqiW2J1Thf2hr6vw&oe=637D49B4"
+        },
+        "thumbnail_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--8CA40E5L--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/721lt9kj92i3ov2cthfc.png",
+        "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--8CA40E5L--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/721lt9kj92i3ov2cthfc.png",
+        "details": "GitHub, Inc., is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. "
     },
     {
         "id": "04",
-        "name": "Basic JavaScript"
+        "name": "Basic JavaScript",
+        "author": {
+            "name": "Jhankar Mahbub",
+            "published_date": "2022-08-25 06:03:00",
+            "img": "https://www.tbsnews.net/sites/default/files/styles/infograph/public/images/2021/07/08/img_2842_0.jpg?itok=G1cRamCf"
+        },
+        "thumbnail_url": "https://moralis.io/wp-content/uploads/2021/07/Moralis-Blogpost-JavaScript-Explained-07272021-V12.png",
+        "image_url": "https://moralis.io/wp-content/uploads/2021/07/Moralis-Blogpost-JavaScript-Explained-07272021-V12.png",
+        "details": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries."
+        
     },
     {
         "id": "05",
-        "name": "React"
+        "name": "React",
+        "author": {
+            "name": "Jhankar Mahbub",
+            "published_date": "2022-08-25 18:53:49",
+            "img": "https://www.tbsnews.net/sites/default/files/styles/infograph/public/images/2021/07/08/img_2842_0.jpg?itok=G1cRamCf"
+        },
+        "thumbnail_url": "https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg",
+        "image_url": "https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg",
+        "details": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies."
+        
     },
     {
         "id": "06",
-        "name": "Bootstrap"
+        "name": "Bootstrap",
+        "author": {
+            "name": "Rasel Ahmed",
+            "published_date": "2022-08-30 16:38:45",
+            "img": "https://scontent.fjsr16-1.fna.fbcdn.net/v/t39.30808-6/242949427_4729960873688754_6323819777839821657_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGpHzaxyKrDrekKezBP8Jk8PKWCqElbH3I8pYKoSVsfct-_90JTcUsBZ31abeBuJvAufQCYKf9wkt4Fgj8Xro6m&_nc_ohc=52iBZ0-dDcEAX8dc_22&_nc_zt=23&_nc_ht=scontent.fjsr16-1.fna&oh=00_AT8D4iHT1B2GzQHaa0u_RKCeJGVI3OPUh0qaUWkmJkQbGg&oe=635C7EEC"
+        },
+        "thumbnail_url": "https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-social.png",
+        "image_url": "https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-social.png",
+        "details": "Designed and built with all the love in the world by the Bootstrap team with the help of our contributors"
     },
     {
         "id": "07",

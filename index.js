@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
     res.send('api running in port 5000')
 })
 
-app.get('/course', (req, res) => {
+app.get('/course-categories', (req, res) => {
     res.send(categories)
 });
 
