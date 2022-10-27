@@ -1,7 +1,7 @@
 [
     {
         "id": "01",
-        "name": "Basic HTML5",
+        "name": "HTML5 Course For Beginners",
         "author": {
             "name": "Rasel Ahmed",
             "published_date": "2022-08-30 16:38:45",
@@ -9,11 +9,12 @@
         },
         "thumbnail_url": "https://hackr.io/blog/best-html-courses/thumbnail/large",
         "image_url": "https://hackr.io/blog/best-html-courses/thumbnail/large",
-        "details": "HTML is the standard markup language for Web pages With HTML you can create your own Website  HTML is easy to learn  You will enjoy it"
+        "details": "Zero To Hero HTML5 Course For Beginners Explore New Era",
+        "price": "$20.00"
     },
     {
         "id": "02",
-        "name": "Basic CSS3",
+        "name": "CSS3 For Beginner Friendly",
         "author": {
             "name": "Anisul Islam",
             "published_date": "2022-08-30 16:38:45",
@@ -21,7 +22,8 @@
         },
         "thumbnail_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
         "image_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
-        "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
+        "details": "make a website with more and more style you have and we are expose CSS3 zero to hero journey with you",
+        "price": "$25.00"
     },
     {
         "id": "03",
@@ -33,11 +35,12 @@
         },
         "thumbnail_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--8CA40E5L--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/721lt9kj92i3ov2cthfc.png",
         "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--8CA40E5L--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/721lt9kj92i3ov2cthfc.png",
-        "details": "GitHub, Inc., is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. "
+        "details": "explore git and github with you, task management, continuous integration, and wikis for every project. ",
+        "price": "$15.00"
     },
     {
         "id": "04",
-        "name": "Basic JavaScript",
+        "name": "Basic JavaScript ES6",
         "author": {
             "name": "Jhankar Mahbub",
             "published_date": "2022-08-25 06:03:00",
@@ -45,12 +48,13 @@
         },
         "thumbnail_url": "https://moralis.io/wp-content/uploads/2021/07/Moralis-Blogpost-JavaScript-Explained-07272021-V12.png",
         "image_url": "https://moralis.io/wp-content/uploads/2021/07/Moralis-Blogpost-JavaScript-Explained-07272021-V12.png",
-        "details": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries."
+        "details": "From Beginner javascript to building awesome web apps and website!",
+        "price":"$45.00"
         
     },
     {
         "id": "05",
-        "name": "React",
+        "name": "Creative Basic React for Beginners",
         "author": {
             "name": "Jhankar Mahbub",
             "published_date": "2022-08-25 18:53:49",
@@ -58,23 +62,34 @@
         },
         "thumbnail_url": "https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg",
         "image_url": "https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg",
-        "details": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies."
+        "details": "Build more and more awesome web app in your computer with react!",
+        "price": "$120.00"
         
     },
     {
         "id": "06",
-        "name": "Bootstrap",
+        "name": "Advanced Bootstrap Course",
         "author": {
-            "name": "Rasel Ahmed",
+            "name": "Anisul Islam",
             "published_date": "2022-08-30 16:38:45",
-            "img": "https://scontent.fjsr16-1.fna.fbcdn.net/v/t39.30808-6/242949427_4729960873688754_6323819777839821657_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGpHzaxyKrDrekKezBP8Jk8PKWCqElbH3I8pYKoSVsfct-_90JTcUsBZ31abeBuJvAufQCYKf9wkt4Fgj8Xro6m&_nc_ohc=52iBZ0-dDcEAX8dc_22&_nc_zt=23&_nc_ht=scontent.fjsr16-1.fna&oh=00_AT8D4iHT1B2GzQHaa0u_RKCeJGVI3OPUh0qaUWkmJkQbGg&oe=635C7EEC"
+            "img": "https://yt3.ggpht.com/ytc/AMLnZu9qwWLjx8qLFObE0TDxQytCm3kAy02qy3cnv-tWew=s900-c-k-c0x00ffffff-no-rj"
         },
         "thumbnail_url": "https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-social.png",
         "image_url": "https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-social.png",
-        "details": "Designed and built with all the love in the world by the Bootstrap team with the help of our contributors"
+        "details": "Designed and built with all the love in the world by the Bootstrap team with the help of our contributors",
+        "price":"$20.00"
     },
     {
         "id": "07",
-        "name": "All Course"
+        "name": "MERN STACK Web Development In one course",
+        "author": {
+            "name": "Code.Corn",
+            "published_date": "2022-08-30 16:38:45",
+            "img": "https://scontent.fjsr16-1.fna.fbcdn.net/v/t39.30808-6/255743413_1242530602927398_4875130135431725961_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHWxT94hyjChBHCy1ewyvnGXa6PDHk6vbtdro8MeTq9u4DyPpmT7nOyOFV6XWAYxzFDfGDb2ygpT_f7ZIE4CF4P&_nc_ohc=97r7UmMoo40AX8f4Bua&_nc_oc=AQlQ1SxbjMYdPBlIiVVckVpSfJ0jAZRrbvRY2c5qkZwFsFeIM6J-2AV9rasrIPm9LRU&_nc_zt=23&_nc_ht=scontent.fjsr16-1.fna&oh=00_AT-NpDYq7dazKb-GCyuqyEEhEvAwdpryx3f0U9xORIT6iw&oe=635D5609"
+        },
+        "thumbnail_url": "https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/into-codin.jpg",
+        "image_url": "https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/into-codin.jpg",
+        "details": "Learn to create a full E-Commerce website and apps/website with mongoDB, js, react, etc.",
+        "price":"$245.00"
     }
 ]
